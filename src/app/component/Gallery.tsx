@@ -20,7 +20,7 @@ const Gallery = () => {
             MY <span className="text-cyan-600">GALLERY</span>
           </h2>
         </div>
-        <div className="gap-8 sm:gap-4">
+        <div className="gap-8 sm:gap-4 flex flex-col items-center">
              <Image
               className="object-cover object-center rounded m-8"
               alt="Pic1"
