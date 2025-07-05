@@ -1,3 +1,4 @@
+"use client";
 import Contact from "./component/contact";
 import Footer from "./component/footer";
 import Gallery from "./component/Gallery";

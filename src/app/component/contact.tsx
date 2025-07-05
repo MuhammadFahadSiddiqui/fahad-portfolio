@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import Image from "next/image"; // ✅ Using next/image instead of <img>
+// import Image from "next/image"; // ✅ Using next/image instead of <img>
 
 const Contact = () => {
   const [status, setStatus] = useState<string | null>(null);
